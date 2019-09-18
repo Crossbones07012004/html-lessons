@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap'); 
+
 @font-face {
     font-family: 'Playfair Display';
     src: url('./assets/Font/PlayfairDisplay-Italic.woff2') format('woff2'),
@@ -46,3 +48,34 @@
     font-style: italic;
 }
 
+.news{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:center;
+    font-family: 'Playfair Display';
+}
+article{
+   
+    width: 50%;
+}
+p{
+
+}
+
+.womans{
+width: 100%;
+}
+
+.all{
+width:  100%;
+min-width: 320px ;
+max-width: 1060px ;
+margin: 0 auto;
+}
+header{
+    font-family: 'Ubuntu', sans-serif;
+}
+nav{
+    
+}
