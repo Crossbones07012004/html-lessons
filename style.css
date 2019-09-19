@@ -57,16 +57,22 @@
 }
 article{
    
-    width: 50%;
+    width: 45%;
 }
 p{
 
 }
 
+img{
+    width: 90%;   
+}
 .womans{
 width: 100%;
 }
 
+.input{
+    width: 100%;
+}
 .all{
 width:  100%;
 min-width: 320px ;
@@ -78,4 +84,63 @@ header{
 }
 nav{
     
+}
+.minimo
+{
+    width: 15%; 
+}
+.Mail{
+    background-color: f0f0f0;
+    text-align: center;
+    padding: 60px auto;
+}
+.Mail1{
+  
+}
+.Mailtext{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.Mialbutton{
+    border: none;
+    background-color: transparent;
+}
+.LoadMorebutton{
+    font-family: 'Playfair Display';
+    background-color: transparent;
+    width: 20%;
+    height: 70px;
+    font-size:  30px;
+}
+body{
+    text-align: center;
+    
+}
+footer{
+    background-color: f0f0f0;
+    height: 100px;
+    
+}
+.footerbutton{
+    border: none;
+    background-color: transparent;
+    margin: 50px auto;
+
+}
+.footerbuttons{
+margin-left: 10px;
+}
+.footerbutton1{
+    border: none;
+    background-color: transparent;
+    margin: 50px auto;
+    margin-left: 700px;
+}
+.a1header{
+    margin-left: 600px;
+}
+.aheader{
+    margin-left: 20px;
 }
